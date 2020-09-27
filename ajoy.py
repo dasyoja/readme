@@ -19,4 +19,4 @@ elif(cmd=="Show Calendar"):
 elif(cmd=="Show Today's Date")
 	sp.getoutput("Date")
 else:
-	print(You entered wrong input\n")
+	print("You entered wrong input\n")
